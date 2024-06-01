@@ -1,0 +1,23 @@
+body{
+    background-color: #808080;
+    padding: 150px;
+}
+.contact{
+    font-size: 30px;
+    color: #4dff88;
+}
+.avatar{
+    border-radius: 100px;
+}
+.facebook{
+    font-size: 30px;
+    color: aqua;
+}
+.phone{
+    font-size: 30px;
+    color: aqua;
+}
+.address{
+    font-size: 30px;
+    color: aqua;
+}
